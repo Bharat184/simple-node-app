@@ -41,8 +41,8 @@ const server = http.createServer((req, res) => {
         </head>
         <body>
 
-            <h1>Welcome to my website</h1>
-            <p>This is the main content area.</p>
+            <h1>Welcome to my CI/CD Pipeline</h1>
+            <p>CodeCommit - CodeBuild - CodeDeploy - Targeted EC2 Instance</p>
 
         </body>
         </html>
